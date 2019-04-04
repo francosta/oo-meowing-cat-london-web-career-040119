@@ -10,4 +10,6 @@ class Cat
     puts "meow!"
   end
   
+  binding.pry
+  
 end

@@ -6,5 +6,4 @@ class cat
     puts "meow!"
   end
   
-  
 end

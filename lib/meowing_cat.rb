@@ -8,6 +8,6 @@ class Cat
     puts "meow!"
   end
   
-  binding.pru
+  binding.pry
   
 end

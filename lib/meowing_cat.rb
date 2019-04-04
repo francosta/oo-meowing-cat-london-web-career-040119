@@ -6,7 +6,7 @@ class cat
     @name = name
   end
   
-  def .meow
+  def meow
     puts "meow!"
   end
   
